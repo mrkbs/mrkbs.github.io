@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+# deactivates <view on github> button in markdown
+github:
+  is_project_page: false
